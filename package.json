@@ -2,7 +2,7 @@
   "name": "node-loadmodules",
   "description": "Loader to modulate application",
   "author": "leonardo Silva <me@silvaleonardo.com>",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "license": "Apache-2.0",
   "repository": {
